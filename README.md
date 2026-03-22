@@ -582,6 +582,7 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
 - Static Type Annotations Generators
   - [monkeytype](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
   - [pytype](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
+<img width="1249" height="638" alt="image" src="https://github.com/user-attachments/assets/a4a1ebf1-dce2-4ba8-b1e8-83d7b7f5f807" />
 
 ## Testing
 
@@ -630,6 +631,7 @@ _Libraries for debugging code._
 - Profiler
   - [py-spy](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust.
   - [scalene](https://github.com/plasma-umass/scalene) - A high-performance, high-precision CPU, GPU, and memory profiler for Python.
+    [EcoTrace](https://github.com/Zwony/ecotrace) - A library to measure the carbon footprint of Python functions using real-time CPU/GPU utilization sampling.
 - Others
   - [django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - Display various debug information for Django.
   - [flask-debugtoolbar](https://github.com/pallets-eco/flask-debugtoolbar) - A port of the django-debug-toolbar to flask.
